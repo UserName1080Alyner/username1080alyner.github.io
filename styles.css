@@ -9,6 +9,7 @@ body {
     color: black;
   }
 
+
 .buttonClass {
   font-size:15px;
   font-family:Arial;
@@ -18,11 +19,10 @@ body {
   color:#fff;
   border-color:#18ab29;
   font-weight:bold;
-  border-top-left-radius:27px;
-  border-top-right-radius:27px;
-  border-bottom-left-radius:27px;
-  border-bottom-right-radius:27px;
-  box-shadow: 46px -21px 46px 37px #fff;
+  border-top-left-radius:28px;
+  border-top-right-radius:28px;
+  border-bottom-left-radius:28px;
+  border-bottom-right-radius:28px;
   text-shadow: 1px 1px 0px #2f6627;
   background:#44c767;
 }
