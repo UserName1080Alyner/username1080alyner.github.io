@@ -8,3 +8,26 @@ body {
   p {
     color: black;
   }
+
+.buttonClass {
+  font-size:15px;
+  font-family:Arial;
+  width:140px;
+  height:50px;
+  border-width:1px;
+  color:#fff;
+  border-color:#18ab29;
+  font-weight:bold;
+  border-top-left-radius:27px;
+  border-top-right-radius:27px;
+  border-bottom-left-radius:27px;
+  border-bottom-right-radius:27px;
+  box-shadow: 46px -21px 46px 37px #fff;
+  text-shadow: 1px 1px 0px #2f6627;
+  background:#44c767;
+}
+
+.buttonClass:hover {
+  background: #5cbf2a
+}
+              
